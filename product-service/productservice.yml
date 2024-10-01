@@ -17,8 +17,8 @@ spring:
 
   application:
     name: PRODUCT-SERVICE
-#  config:
-#    import: configserver:http://localhost:9296
+  config:
+    import: configserver:http://localhost:9296
 #  cloud:
 #    config:
 #      uri:

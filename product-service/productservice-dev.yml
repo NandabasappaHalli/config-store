@@ -19,9 +19,9 @@ spring:
     name: PRODUCT-SERVICE
   config:
     import: configserver:http://localhost:9296
-#  cloud:
-#    config:
-#      uri:
+ cloud:
+  config:
+     uri:
 #      - configserver:http://localhost:9296
   sql:
     init:

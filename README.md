@@ -1,2 +1,2 @@
-# configserver
-Config server
+# configstore
+Config store
